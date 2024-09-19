@@ -1,0 +1,1 @@
+import{j as t,m as e}from"./index-C6WG5F-o.js";const i=()=>t.jsx(e.section,{initial:{opacity:0},animate:{opacity:1,transition:{delay:.5,duration:.6,ease:"easeIn"}},className:"container about py-5 justify-center",id:"about",children:"services"});export{i as default};
